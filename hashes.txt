@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El tren que nunca llegó
+
+This log tracks the cryptographic history and versioning for the song **El tren que nunca llegó** (el-tren-que-nunca-llego).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:56:55.680773 | `v1` | `47c1cda567b5a466d1ce2448334589eff06d29190a07c757359e7a1393269412` | `4ce6e08745b14b954f5f957dea645d764fdd2ff5e6aecc06c7f05fbffface4ed` | `2026-06-14_el-tren-que-nunca-llego-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
