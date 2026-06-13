@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-tren-que-nunca-llego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For El tren que nunca llegó](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-tren-que-nunca-llego/) |
+| **Get License** | [Commercial Licensing for El tren que nunca llegó](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-tren-que-nunca-llego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche nos vamos de aquí, my lady
+> El humo en el aire y la pasión no se esconde
+> Moviendo la cintura, tu cuerpo a mí me responde
+> No hay vuelta atrás, vámonos en el Mercedes
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
